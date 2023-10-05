@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$x = 5; // global scope
+$x = 8; // global scope
 
 function myTest()
 {
