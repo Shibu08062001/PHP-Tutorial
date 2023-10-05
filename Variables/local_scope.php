@@ -5,7 +5,7 @@
 <?php
 function myTest()
 {
-    $x = 5; // local scope
+    $x = 10; // local scope
     echo "<p>Variable x inside function is: $x</p>";
 }
 myTest();
